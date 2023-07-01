@@ -17,7 +17,7 @@ I have been programming for several years (mainly for educational purposes). I g
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## Connect with me 
+### Connect with me 
 ---------------------
 <p align="left"> <a href="https://www.github.com/DeeMMoon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/muryosound" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
@@ -28,6 +28,7 @@ height="40" alt="VK Badge"/></a>
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 </a>
 </p>
+
 
 ### Languages  
 ---------------------
