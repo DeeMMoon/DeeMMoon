@@ -11,6 +11,10 @@ I have been programming for several years (mainly for educational purposes). I g
 * 🧠  I'm learning Spring Framework and Hibernate
 * 🤝  I'm open to collaborating on Projects related to microservice architecture and RestAPI applications
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ### Languages  
 ---------------------
 <div align="center">  
@@ -52,11 +56,15 @@ I have been programming for several years (mainly for educational purposes). I g
 
 
 ## Connect with me  
-<br/>  
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/DeeMMoon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/muryosound" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/DeeMMoon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="http://www.instagram.com/muryosound" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+ <a href="https://vk.com/f1ll_zzz" target="_blank"><img 
+src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40"
+height="40" alt="VK Badge"/></a>
+<a href="https://t.me/tehnomaniak07" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+</a>
+</p>
 
 ## Badges 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeMMoon&hide_border=true&layout=compact" align="left" />  
