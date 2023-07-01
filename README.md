@@ -71,8 +71,7 @@ height="40" alt="VK Badge"/></a>
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | Moscow Aviation Institute (Innovation Management)               | 2019 ------> 2023 |
-| Moscow Aviation Institute (Methods and frameworks 
-|                        of artificial intelligence)              | 2022 ------> 2023 |
+| Moscow Aviation Institute (Methods and frameworks  of artificial intelligence) | 2022 ------> 2023 |
 | School21 (Sber)                                                 | 2021 ------> now  |
 
 
