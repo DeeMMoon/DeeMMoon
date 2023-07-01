@@ -58,10 +58,10 @@ I have been programming for several years (mainly for educational purposes). I g
 ## Connect with me  
 <p align="left"> <a href="https://www.github.com/DeeMMoon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/muryosound" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
- <a href="https://vk.com/f1ll_zzz" target="_blank"><img 
+ <a href="https://vk.com/the_cosmo" target="_blank"><img 
 src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40"
 height="40" alt="VK Badge"/></a>
-<a href="https://t.me/tehnomaniak07" target="_blank">
+<a href="https://t.me/thecosmo1" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 </a>
 </p>
