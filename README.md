@@ -78,12 +78,7 @@ height="40" alt="VK Badge"/></a>
 ## ⚙️ GitHub Badges
 ---------------------
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeMMoon&hide_border=true&layout=compact" align="left" />  
-<br/>  
 <img src="https://github-readme-stats.vercel.app/api?username=DeeMMoon&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=DeeMMoon&&style=flat-square" align="center" />
-</div>  
 
