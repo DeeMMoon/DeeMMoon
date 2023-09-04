@@ -7,7 +7,7 @@ Junior Java Developer
 I have been programming for several years (mainly for educational purposes). I graduated from the Moscow Aviation Institute. I am currently a student at School 21. At school21, I developed a lot of projects in C and C ++, in the near future I plan to completely switch to Java and its core technologies
 
 
-- :telescope: School student21 (Sber)
+- :telescope: School21 student (Sber)
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [dim22xxx@gmail.com](mailto:dim22xxx@gmail.com)
 * 🧠  I'm learning Spring Framework and Hibernate
