@@ -1,17 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dmitry
 =======================================================================================================================================
 
-Junior Java Developer
+Java Developer
 ---------------------
 
-I have been programming for several years (mainly for educational purposes). I graduated from the Moscow Aviation Institute. I am currently a student at School 21. At school21, I developed a lot of projects in C and C ++, in the near future I plan to completely switch to Java and its core technologies
+Hi everyone, my name is Dima, I'm 25 years old. I currently work at Sberbank as a Java developer in the security department. I am also a graduate of the Moscow Aviation Institute and a ex student of School 21 (Ecole42)
 
 
 - :telescope: School21 student (Sber)
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [dim22xxx@gmail.com](mailto:dim22xxx@gmail.com)
-* 🧠  I'm learning Spring Framework and Hibernate
-* 🤝  I'm open to collaborating on Projects related to microservice architecture and RestAPI applications
+* 🧠  I'm working with Spring Framework and AI Tools
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
